@@ -1,0 +1,35 @@
+h1 {
+    color: red;
+}
+
+h2	{
+	color: blue;
+
+}
+
+h3	{
+
+	color: green;
+}
+
+a:link	{
+
+	color: yellow;
+}
+
+
+a:visited	{
+
+	color: green;
+}
+
+
+a:hover	{
+
+	color: hotpink;
+}
+
+a:active	{
+
+	color: orange;
+}
